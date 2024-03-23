@@ -1,5 +1,5 @@
 
-**PROJENIN ANA TEMASI:**
+**PROJENİN ANA TEMASI:**
 
 NetBeans IDE'de Java ile yazılmış olup SpringBoot uygulamasında dosyalar toplanmıştır. HTML ve CSS ile front-end kısmı yazılmış olup giriş paneli tasarlanmıştır. Backend ve frontend bölümlerini bağlayıp 
 çalıştırmak için SpringBoot kullanılmıştır. DTO, Entity ve Controller sınıfları yazılmıştır. Kullanıcı giriş yaptığında bu veriler veritabanına eklenmektedir.
